@@ -1,18 +1,14 @@
-### Hi there i am Fitsum 
-#### I am Full Stack Web and Android Developer 
+### Hi there,
 
+My name is Fitsum, I'm an Expert Web/Android developer for different types of applications and with emerging technologies.
 
-I am a senior Full Stack Developer with extensive experience in Django, NodeJS, Reactjs, Native Android with Java/Kotlin, React Native for Android, and IOS.
+I have been working in different applications for the past five years on local projects. Besides I have been giving training and teaching a regular class.
 
-My expertise range from Simple responsive website to big Web application with Mobile application. I have been Developing applications for individuals and companies for more than 3years. 
+I'm passionate about working on various projects, as this is my passionate thing to do. All I care about is making my client happy. So you won't regret what you'll get from me.
 
-I can build large web applications with back-end servers and integrated mobile applications with great design and performance. Besides I can build you a desktop application with a fair amount of time.
+I'll implement your requirement in the most efficient way possible, I'll produce a quality product with good timing and based on clients' requirements.
 
-I'm flexible with my working hours and am happy to work closely with any existing freelancers you work with.
-
-Thanks!
-
-I look forward to hearing from you!
+Regards. 
 
 Skills: Node JS /Django / REACT / JS / HTML / CSS / Wordpress
 
