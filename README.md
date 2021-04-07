@@ -1,4 +1,4 @@
-### Hi there 👋, Hi there i am Fitsum 
+### Hi there i am Fitsum 
 #### I am Full Stack Web and Android Developer 
 ![I am Full Stack Web and Android Developer ](https://miro.medium.com/max/3960/0*HICLyAdNSIyT0ODU.jpg)
 
