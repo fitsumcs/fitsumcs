@@ -1,6 +1,6 @@
 ### Hi there i am Fitsum 
 #### I am Full Stack Web and Android Developer 
-![I am Full Stack Web and Android Developer ](http://www.fig-tech.com/wp-content/uploads/2015/11/fig-tech-software-development.png)
+![I am Full Stack Web and Android Developer ](https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png)
 
 I am a senior Full Stack Developer with extensive experience in Django, NodeJS, Reactjs, Native Android with Java/Kotlin, React Native for Android, and IOS.
 
