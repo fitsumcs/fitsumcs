@@ -1,6 +1,8 @@
-### Hi there,
+## Hi, I am Fitsum Alemu 👨‍💻
 
-My name is Fitsum, I'm an Expert Web/Android developer for different types of applications and with emerging technologies.
+I am a Full Stack Software Developer and machine-learning enthusiast. I am passionate about technologies and love to learn new things.
+
+#### 🔭 I’m currently looking for new opportunities .
 
 <p align="center">
 Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something for improving lives of people
