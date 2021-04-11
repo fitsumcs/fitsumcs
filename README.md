@@ -46,6 +46,14 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/fitsumcs">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fitsumcs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fitsumcs&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
