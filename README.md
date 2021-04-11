@@ -11,11 +11,11 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I have studiede Masccters of Computer Science in Addis Abab Universty.\
+🎓 &nbsp;I have studiede Masters of Computer Science in Addis Abab Universty.\
 🌱 &nbsp;I'm on track for learning more about Machine Learining and Artificial Intelligence.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at fitsumcomp1@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at fitsumcs@gmail.com! I'll try to respond as soon as I can.\
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -52,7 +52,7 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/fitsum-alemu-05b477b0/"><img src="https://img.shields.io/badge/-Fitsum%20Alemu%20D-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:fitsumcomp1@gmail.com"><img src="https://img.shields.io/badge/-fitsumcomp1@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:fitsumcs@gmail.com"><img src="https://img.shields.io/badge/-fitsumcs@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 
