@@ -2,6 +2,10 @@
 
 My name is Fitsum, I'm an Expert Web/Android developer for different types of applications and with emerging technologies.
 
+<p align="center">
+Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something for improving lives of people
+<br><br>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
