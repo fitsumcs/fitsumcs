@@ -1,5 +1,7 @@
 ## Hi, I am Fitsum Alemu 👨‍💻
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fitsumcs" alt="fitsumcs" /> </p>
+
 I am a Full Stack Software Developer and machine-learning enthusiast. I am passionate about technologies and love to learn new things.
 
 #### 🔭 I’m currently looking for new opportunities .
@@ -8,7 +10,7 @@ I am a Full Stack Software Developer and machine-learning enthusiast. I am passi
 Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something for improving lives of people
 <br><br>
 
-### 👨🏻‍💻 &nbsp;About Me <p align="left"> <img src="https://komarev.com/ghpvc/?username=fitsumcs" alt="fitsumcs" /> </p>
+### 👨🏻‍💻 &nbsp;About Me 
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I have studied Masters of Computer Science in Addis Ababa University.\
