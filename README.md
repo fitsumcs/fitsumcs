@@ -16,7 +16,7 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
 🎓 &nbsp;I have studied Masters of Computer Science in Addis Ababa University.\
 🌱 &nbsp;I'm on track for learning more about Machine Learining and Artificial Intelligence.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at fitsumcs@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at fitsumcs@gmail.com! I'll try to respond as soon as I can.
 
 
 ### 🛠 &nbsp;Tech Stack
